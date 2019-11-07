@@ -1,8 +1,0 @@
-Just a Anime Manager
-
-- Encontrar uma source de animes e series
-- criar um  bd (definir o que vai ter nele)
-- Pensar numa interface(tk, wx, react?)
-- Interação com pessoas
-- Login?
-- Multplataforma (se for um site fica ez)
