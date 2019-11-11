@@ -2,6 +2,14 @@ Just a Anime Manager
 
 - Encontrar uma source de animes e series
 - criar um  bd (definir o que vai ter nele)
+    - Checar se altname e name nao sao iguais
+    - genere, cat = FK
+    - cat -> yugioh!
+                - Duel Monsters
+                - GX
+                - 5d
+                - etc...
+- Capa -> cat.name,anime.name
 - Pensar numa interface(tk, wx, react?)
 - Interação com pessoas
 - Login?
